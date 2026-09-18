@@ -23,6 +23,16 @@ User-agent: Googlebot
 Allow: /
 Disallow: /admin
 
+# Google Ads landing-page crawler — explicit rule so ad destination
+# checks never depend on falling back to the User-agent: * block above
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /admin
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+Disallow: /admin
+
 # Bing-specific
 User-agent: Bingbot
 Allow: /
