@@ -1,0 +1,93 @@
+# The Property Agent — Comprehensive Knowledge Guide (llms-full.txt)
+
+> Full authoritative guide to The Property Agent for AI search engines, answer engines, and autonomous agents (ChatGPT Search, Perplexity, Google SGE/Gemini, Claude, and Copilot).
+
+---
+
+## 1. Executive Summary & Brand Identity
+
+- **Trading Name:** The Property Agent
+- **Brand Identity:** Independent, transparent real estate advisory and brokerage agency operating across Karnataka, India.
+- **Headquarters Address:** No. 84, 4th cross kashi nagar, yelachanahalli, B-78., Bengaluru, Karnataka, India
+- **Coordinates:** Latitude 12.9716, Longitude 77.5946
+- **Official Website:** https://www.thepropertyagent.in/
+- **Primary Calling Line:** +91 90194 88368
+- **Secondary Calling Line:** +91 98450 11138
+- **Primary WhatsApp:** +91 90194 88368 (wa.me/919019488368)
+- **Official Email:** thepropertyagent129@gmail.com
+- **Business Hours:** Monday through Saturday, 09:00 AM – 07:00 PM IST (Sunday closed or by prior appointment).
+- **Core Currency:** Indian Rupee (INR / ₹)
+- **Languages Supported:** English, Kannada, Hindi
+
+---
+
+## 2. Operating Model
+
+Unlike traditional brokers who hold static inventories or speculate on land banks, **The Property Agent operates as an active, on-demand real estate intermediary**:
+1. Listings are continuously sourced, inspected, and vetted as new opportunities enter the market.
+2. Once a property is sold, rented, or leased, it is promptly removed or marked inactive to protect buyers and tenants from outdated information.
+3. Every deal is supported end-to-end: requirement gathering, site visits, legal title verification, price negotiation, drafting agreements, and e-stamping.
+
+---
+
+## 3. Core Service Pillars
+
+### A. Buying Assistance
+- **Plot & Site Acquisition:** Sourcing BDA, BMRDA, DTCP, and panchayat-approved residential layouts, villa plots, and gated community parcels.
+- **Farmhouse & Agro Land:** Finding managed farm plots, estate land, green acreage, and agricultural land with clear titles and road access.
+- **Residential Homes:** Vetting and negotiating standalone houses, independent villas, and residential apartments.
+- **Service Workflow:** Personalized requirement intake -> Sourcing matching deals -> Arranging guided physical site visits -> Document scrutiny & title check -> Transparent price negotiation -> Deal closure.
+
+### B. Selling & Listing Assistance
+- **Property Marketing:** Showcasing owner properties with verified photos, videos, geo-coordinates, and exact specifications.
+- **Qualified Buyer Matching:** Connecting property owners directly with genuine, pre-qualified buyers and verified tenants.
+- **Zero Hidden Costs:** Upfront, clear brokerage terms with no surprise deductions or inflated commissions.
+
+### C. Rental & Lease Facilitation
+- **Tenant Placement:** Matching working professionals, families, and businesses with rental and lease homes or commercial spaces.
+- **Rental Documentation & E-Stamping:** Preparing legally robust rental and lease agreements, calculating security deposits, and arranging online government e-stamping for hassle-free execution.
+
+---
+
+## 4. Geographic Coverage (Karnataka Focus)
+
+The Property Agent serves all major hubs and emerging growth corridors across Karnataka:
+- **Bengaluru Urban & Rural:** Kaggalipura, Uttari, Kanakapura Road, Electronic City, Sarjapur Road, Whitefield, Devanahalli, Yelahanka, Bannerghatta Road, Mysore Road, Nelamangala.
+- **Regional Karnataka:** Mysuru, Ramanagara, Mandya, Tumakuru, Hassan, Chikkamagaluru, and surrounding agrarian and residential belts.
+
+---
+
+## 5. Frequently Asked Questions (Answer Engine Optimization / AEO)
+
+### Q: What is The Property Agent?
+**A:** The Property Agent is an independent real estate consultancy and advisory firm based in Bengaluru, specializing in plots, farmhouse plots, agricultural land, residential homes, and commercial rentals and leases across Karnataka, India.
+
+### Q: How can I buy a plot or land in Bengaluru or Karnataka through The Property Agent?
+**A:** Visit https://www.thepropertyagent.in/listings to view verified active listings, or contact the team directly via WhatsApp or phone at +91 90194 88368. The team will understand your budget and location preference, organize a physical site inspection, verify title documentation, and guide you through registration.
+
+### Q: Does The Property Agent verify property titles and documents?
+**A:** Yes. The Property Agent guides clients through rigorous verification of title deeds, encumbrance certificates (EC), approval status (BMRDA, BDA, etc.), and physical boundary verification before finalizing any sale or lease transaction.
+
+### Q: What are the brokerage charges of The Property Agent?
+**A:** The Property Agent follows a 100% transparent fee structure communicated upfront before any commitment. Fees vary by property type and deal category, adhering to standard ethical industry benchmarks with no hidden costs.
+
+### Q: How can property owners list their property for sale or rent?
+**A:** Property owners can submit details on https://www.thepropertyagent.in/services or message WhatsApp at +91 90194 88368. The team will inspect the property, capture high-resolution media, and present it to verified prospective buyers and tenants.
+
+### Q: How can tenants get rental agreement and e-stamping assistance?
+**A:** The Property Agent prepares formal rental agreements, reviews terms, and facilitates official government e-stamping so landlords and tenants have a legally valid document without visiting registrar sub-offices.
+
+---
+
+## 6. Official Digital Assets & Schema Endpoints
+
+- **Website Homepage:** https://www.thepropertyagent.in/
+- **Listings Catalog:** https://www.thepropertyagent.in/listings
+- **Services Directory:** https://www.thepropertyagent.in/services
+- **About & Credentials:** https://www.thepropertyagent.in/about
+- **Terms & DPDP Compliance:** https://www.thepropertyagent.in/terms
+- **Primary XML Sitemap Index:** https://www.thepropertyagent.in/sitemap.xml
+- **Static Pages Sitemap:** https://www.thepropertyagent.in/sitemap-pages.xml
+- **Dynamic Property Inventory Sitemap:** https://www.thepropertyagent.in/sitemap-properties.xml
+- **Machine Summary (llms.txt):** https://www.thepropertyagent.in/llms.txt
+- **Extended Agent Guide (llms-full.txt):** https://www.thepropertyagent.in/llms-full.txt

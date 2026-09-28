@@ -17,6 +17,7 @@ Sitemap: https://www.thepropertyagent.in/sitemap.xml
 
 # LLM/AI summary of this business — see https://llmstxt.org/
 # https://www.thepropertyagent.in/llms.txt
+# https://www.thepropertyagent.in/llms-full.txt
 
 # Google-specific
 User-agent: Googlebot

@@ -1,0 +1,17 @@
+{
+  "name": "The Property Agent",
+  "short_name": "ThePropertyAgent",
+  "description": "Plots, Farmhouses & Land for Sale, Bengaluru & Karnataka",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C2320",
+  "theme_color": "#0C2320",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

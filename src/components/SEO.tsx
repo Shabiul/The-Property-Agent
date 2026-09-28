@@ -183,10 +183,14 @@ function generateBusinessSchema(callNumbers: string[], whatsappNumber: string): 
         { '@type': 'OfferCatalog', name: 'Commercial Properties' },
       ],
     },
+    priceRange: '₹₹ - ₹₹₹₹',
+    slogan: 'Plots, Farmhouses & Land Across Karnataka',
     ...(contactPoints.length > 0 ? { contactPoint: contactPoints } : {}),
     sameAs: [
       `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ADDRESS)}`,
       ...(waDigits ? [`https://wa.me/${waDigits}`] : []),
+      `${SITE_URL}/llms.txt`,
+      `${SITE_URL}/llms-full.txt`,
     ],
     founder: {
       '@type': 'Organization',
@@ -304,6 +308,21 @@ function generatePropertySchema(property: PropertySchemaData): object {
       datePublished: r.date,
     }));
   }
+
+  const isLand = property.type === 'plot' || property.type === 'farmhouse' || property.type === 'land';
+  schema.mainEntity = {
+    '@type': isLand ? 'Place' : 'SingleFamilyResidence',
+    name: property.name,
+    description: property.description,
+    address: schema.address,
+    geo: schema.geo,
+    ...(isLand ? {} : {
+      numberOfRooms: property.bedrooms,
+      numberOfBathroomsTotal: property.bathrooms,
+    }),
+    floorSize: schema.floorSize,
+    amenityFeature: schema.amenityFeature,
+  };
 
   return schema;
 }

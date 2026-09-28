@@ -23,8 +23,8 @@ const SITE_URL = 'https://www.thepropertyagent.in';
 // Same anon/publishable key the client app ships with — safe to read
 // server-side too, since RLS already restricts anonymous reads to
 // published properties only (see properties_public_select_published).
-const supabaseUrl = process.env.VITE_SUPABASE_URL;
-const supabaseKey = process.env.VITE_SUPABASE_PUBLISHABLE_KEY;
+const supabaseUrl = process.env.VITE_SUPABASE_URL || process.env.SUPABASE_URL;
+const supabaseKey = process.env.VITE_SUPABASE_PUBLISHABLE_KEY || process.env.SUPABASE_PUBLISHABLE_KEY || process.env.SUPABASE_ANON_KEY;
 
 function escapeXml(value: string): string {
   return value

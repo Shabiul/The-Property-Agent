@@ -4,7 +4,7 @@
   <!-- Home Page -->
   <url>
     <loc>https://www.thepropertyagent.in/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,7 +12,7 @@
   <!-- All Listings Page -->
   <url>
     <loc>https://www.thepropertyagent.in/listings</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -20,7 +20,7 @@
   <!-- Services Page -->
   <url>
     <loc>https://www.thepropertyagent.in/services</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -28,7 +28,7 @@
   <!-- About Page -->
   <url>
     <loc>https://www.thepropertyagent.in/about</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -36,7 +36,7 @@
   <!-- Terms & Conditions -->
   <url>
     <loc>https://www.thepropertyagent.in/terms</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
