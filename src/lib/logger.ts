@@ -12,8 +12,8 @@ export interface LogPayload {
 export async function logToGoogleSheet(payload: LogPayload): Promise<void> {
   const webhookUrl = import.meta.env.VITE_GOOGLE_SHEET_WEBHOOK_URL;
 
-  if (!webhookUrl) {
-    console.log('[Logger] VITE_GOOGLE_SHEET_WEBHOOK_URL not configured. Skipping Google Sheet log dumping.');
+  if (!webhookUrl || webhookUrl.includes('YOUR_DEPLOYMENT_ID')) {
+    // Only log if not a placeholder to avoid noisy network warnings
     return;
   }
 

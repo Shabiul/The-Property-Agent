@@ -36,8 +36,8 @@ if (!supabaseUrl || !supabaseKey) {
 }
 
 async function logToGoogleSheet(logData) {
-  if (!googleSheetWebhook) {
-    console.log('ℹ️ GOOGLE_SHEET_WEBHOOK_URL not set in environment. Skipping Google Sheet log dumping.');
+  if (!googleSheetWebhook || googleSheetWebhook.includes('YOUR_DEPLOYMENT_ID')) {
+    console.log('ℹ️ GOOGLE_SHEET_WEBHOOK_URL not set or is using placeholder. Skipping Google Sheet log dumping.');
     return;
   }
 
@@ -60,7 +60,7 @@ async function logToGoogleSheet(logData) {
 }
 
 async function pingSupabase() {
-  const endpoint = `${supabaseUrl.replace(/\/$/, '')}/rest/v1/`;
+  const endpoint = `${supabaseUrl.replace(/\/$/, '')}/auth/v1/health`;
   const timestamp = new Date().toISOString();
   console.log(`📡 Pinging Supabase project at: ${endpoint}`);
 
