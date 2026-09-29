@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "check": "tsc -b --noEmit",
-    "keep-alive": "node scripts/keep-supabase-alive.js"
+    "keep-alive": "node scripts/keep-supabase-alive.js",
+    "create-admin": "node scripts/create-admin-user.js"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
